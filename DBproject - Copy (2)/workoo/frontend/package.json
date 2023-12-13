@@ -12,7 +12,7 @@
     "autoprefixer": "10.4.14",
     "axios": "^1.6.0",
     "debug": "^4.3.4",
-    "deck.gl": "^8.9.19",
+    "deck.gl": "^8.9.32",
     "framer-motion": "^10.12.16",
     "mapbox-gl": "^2.15.0",
     "next": "13.5.4",
