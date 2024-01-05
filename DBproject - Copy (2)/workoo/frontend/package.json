@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.14",
-    "axios": "^1.6.0",
+    "axios": "^1.6.4",
     "debug": "^4.3.4",
     "deck.gl": "^8.9.19",
     "framer-motion": "^10.12.16",
